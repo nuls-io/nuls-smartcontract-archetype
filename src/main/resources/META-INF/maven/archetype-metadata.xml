@@ -14,7 +14,7 @@
         <defaultValue>${artifactId}</defaultValue>
     </requiredProperty>
     <requiredProperty key="package">
-        <defaultValue>${package}</defaultValue>
+        <defaultValue>${groupId}</defaultValue>
     </requiredProperty>
 </requiredProperties>
 
