@@ -26,7 +26,7 @@ In order to solve the problem of Intellij IDEA creating a Maven project through 
 
          GroupId：io.nuls.v2
          ArtifactId: nuls-smartcontract-archetype 
-         Version: 0.9
+         Version: 0.10
 ![](https://i.imgur.com/slYYYHo.jpg)
 - Select the generated "io.nuls.v2:nuls-smartcontract-archetype" and click Next to create the NULS Smart Contract Project.
 
