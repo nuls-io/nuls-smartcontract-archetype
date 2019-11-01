@@ -4,7 +4,7 @@
 
     <groupId>io.nuls.v2</groupId>
     <artifactId>nuls-smartcontract-archetype</artifactId>
-    <version>0.13</version>
+    <version>0.14</version>
 
     <name>nuls-smartcontract-archetype</name>
 
